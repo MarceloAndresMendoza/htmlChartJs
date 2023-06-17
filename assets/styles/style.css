@@ -1,0 +1,20 @@
+    h1,
+    h2,
+    h3,
+    h4,
+    h5 {
+        margin-bottom: 5px;
+        text-align: center;
+    }
+
+    h1 {
+        text-decoration: underline;
+    }
+
+    aside {
+        margin: 30px;
+        font-size: small;
+        font-weight: bold;
+        border-left: solid 2px gray;
+        padding-left: 10px;
+    }
